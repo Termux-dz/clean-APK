@@ -10,4 +10,4 @@ cd clean-APK
 
 chmod +x *
 
-python3 clean-APK
+python3 clean-APK.py
